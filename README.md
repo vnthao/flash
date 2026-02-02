@@ -6,14 +6,14 @@ Have a look: [ESP32 Web Flasher](https://tienhuyiot.github.io/esp_web_flasher/)
 
 ## Features
 
-- 🔌 Direct USB connection to ESP32 via Web Serial API
-- 📁 Drag & drop firmware file upload (.bin files)
-- 🚀 Flash firmware with progress tracking and speed monitoring
-- 🗑️ Erase flash memory functionality
-- 📊 Real-time connection status and chip information
-- 🔄 Automatic device reset after flashing
-- 🌐 Sample firmware selection
-- 📝 Detailed logging and error reporting
+- 🔌 Kết nối USB trực tiếp với ESP32 thông qua API Web Serial.
+- 📁 Tải lên tệp firmware (.bin) bằng cách kéo và thả
+- 🚀 Nạp firmware với chức năng theo dõi tiến độ và giám sát tốc độ.
+- 🗑️ Chức năng xóa bộ nhớ flash
+- 📊 Trạng thái kết nối và thông tin chip theo thời gian thực
+- 🔄 Thiết bị tự reset sau khi cài đặt lại phần mềm.
+- 🌐 Lựa chọn phần mềm mẫu
+- 📝 Ghi nhật ký chi tiết và báo cáo lỗi.
 
 ## Project Structure
 
